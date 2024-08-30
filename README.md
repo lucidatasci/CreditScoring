@@ -1,5 +1,4 @@
 # CreditScoring
-Análise de Credit Scoring 
 
 Neste projeto, realizamos a análise de risco de inadimplência, utilizando um modelo de regressão logística. Programação feita em Python, e a aplicação feita no Streamlit.
 
